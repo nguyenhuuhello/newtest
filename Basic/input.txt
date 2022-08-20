@@ -1,0 +1,2 @@
+
+cd "c:\Workspace\C++\OPP\Basic\" ; if ($?) { g++ test2.cpp -o test2 } ; if ($?) { .\test2 }
